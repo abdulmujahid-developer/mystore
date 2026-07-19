@@ -1,0 +1,74 @@
+{
+  "apps": [
+    {
+      "id": "01",
+      "name": "Focus Flow",
+      "brief_des": "Pomodoro timer & task manager",
+      "icon": "https://placehold.co/200x200/1a73e8/white?text=FF",
+      "keywords": ["focus", "timer", "productivity", "pomodoro"],
+      "page": "focusflow.html",
+      "category": "productivity",
+      "status": "show"
+    },
+    {
+      "id": "02",
+      "name": "Pixel Quest",
+      "brief_des": "Retro adventure RPG game",
+      "icon": "https://placehold.co/200x200/0f9d58/white?text=PQ",
+      "keywords": ["game", "rpg", "pixel", "adventure"],
+      "page": "pixelquest.html",
+      "category": "game",
+      "status": "show"
+    },
+    {
+      "id": "03",
+      "name": "Car Racing X",
+      "brief_des": "Fast-paced car racing game 3D",
+      "icon": "https://placehold.co/200x200/ea4335/white?text=CR",
+      "keywords": ["car", "racing", "game", "speed", "3d"],
+      "page": "racing.html",
+      "category": "game",
+      "status": "show"
+    },
+    {
+      "id": "04",
+      "name": "Cloud Notes",
+      "brief_des": "Lightweight note taking with cloud sync",
+      "icon": "https://placehold.co/200x200/7c3aed/white?text=CN",
+      "keywords": ["notes", "cloud", "sync", "productivity"],
+      "page": "cloudnotes.html",
+      "category": "productivity",
+      "status": "show"
+    },
+    {
+      "id": "05",
+      "name": "Snake Arena",
+      "brief_des": "Classic snake game with multiplayer",
+      "icon": "https://placehold.co/200x200/f97316/white?text=SA",
+      "keywords": ["snake", "game", "arena", "multiplayer"],
+      "page": "snakearena.html",
+      "category": "game",
+      "status": "show"
+    },
+    {
+      "id": "06",
+      "name": "Quick Scan",
+      "brief_des": "QR & barcode scanner utility",
+      "icon": "https://placehold.co/200x200/334155/white?text=QS",
+      "keywords": ["scan", "qr", "barcode", "utility"],
+      "page": "quickscan.html",
+      "category": "utility",
+      "status": "show"
+    },
+    {
+      "id": "07",
+      "name": "Hidden App",
+      "brief_des": "This should not appear",
+      "icon": "https://placehold.co/200x200/999/white?text=H",
+      "keywords": ["secret"],
+      "page": "#",
+      "category": "utility",
+      "status": "hide"
+    }
+  ]
+    }
